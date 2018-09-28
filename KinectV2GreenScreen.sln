@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordinateMappingBasics-WPF", "CoordinateMappingBasics-WPF.csproj", "{4BB6C393-9003-4608-BD70-F3FDA26378AA}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectV2GreenScreen", "KinectV2GreenScreen.csproj", "{4BB6C393-9003-4608-BD70-F3FDA26378AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0119786-D775-4F1D-A8E4-238A2A72533A}
 	EndGlobalSection
 EndGlobal
