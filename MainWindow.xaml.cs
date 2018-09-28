@@ -226,7 +226,7 @@ namespace Microsoft.Samples.Kinect.CoordinateMappingBasics {
                                     }
                                 }
 
-                                //bitmapPixelsPointer[colorIndex] = 0;
+                                bitmapPixelsPointer[colorIndex] = 0;
                             }
                         }
 
