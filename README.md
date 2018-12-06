@@ -20,7 +20,8 @@ This tool enables the use of the XBox Kinect V2 (aka Kinect for XBox One) as a "
 
 ### Keys
 
-* **`C`** - Calibration Mode Toggle - disables/enabled the greenscreen effect; this is helpful when setting up camera calibration in LIV / similar tools
+* **`C`** - Calibration Mode Toggle - disables/enables the greenscreen effect; this is helpful when setting up camera calibration in LIV / similar tools
+* **`F`** - Horizontal Flip Toggle - flips the screen to your liking; helpful too on calibration purposes
 * **`R`** - Output Resize - allows user to set the output window size, e.g. 1280x720 instead of the default 1920x1080. This can help with performance when processing video.
 * **`Alt-F4`** - Exit the application
 
